@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+
+.imag {
+    background-image: url("./images/comp.png");
+    background-size: contain;
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.glass {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(2px);
+}
+
+.glass1 {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(3px);
+}
+.hove:hover{
+    background-color: blueviolet;
+    cursor: pointer;
+}
