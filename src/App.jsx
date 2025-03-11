@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <div className="mx-auto p-0 box-border max-w-[1440px]">
+      <div className="mx-auto p-0 box-border max-w-[1520px]">
         <Navbar />
         <Header />
         <Main />
