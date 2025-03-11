@@ -5,8 +5,8 @@ import picture3 from "../images/picture3.png"
 
 function Main() {
     return (
-        <div className='bg-[#0E041D] py-10 px-5 sm:px-3'>
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-white gap-8 px-10 '>
+        <div className='bg-[#0E041D] py-10 lg:px-5 '>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 text-white gap-8 px-7 '>
                 {[picture1, picture2, picture3].map((img, index) => (
                     <div key={index} className='glass border-b-1 rounded-xl overflow-hidden shadow-lg'>
                         <img src={img} alt="main picture" className='w-full h-auto rounded-t-xl' />

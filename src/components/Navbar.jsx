@@ -7,7 +7,7 @@ function Navbar() {
 
   return (
     <div className="bg-[#0E041D] sticky top-0 z-100">
-      <header className="text-gray-600 body-font mx-auto w-[92%]">
+      <header className="text-gray-600 body-font mx-auto w-[95%]">
         <div className=" flex flex-wrap p-5 items-center justify-between">
      
           <div className="flex items-center">
