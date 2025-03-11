@@ -20,7 +20,7 @@ function Header() {
             </div>
 
 
-            <div className="qism2 relative lg:absolute bottom-0 w-full z-10 px-5 md:px-0 ml-0 lg:ml-20  bg-[#0E041D] lg:bg-transparent">
+            <div className="qism2 relative lg:absolute bottom-0 w-full z-10 px-5 py-3 md:px-0 ml-0 lg:ml-20 bg-[#0E041D] lg:bg-transparent">
                 <div className="grid grid-cols-2 md:grid-cols-4 text-white w-full gap-5 md:gap-x-10  ">
                     {[{ icon: icon1, title: "7+ yillik", desc: "Umumiy tajriba" },
                     { icon: icon2, title: "50+", desc: "Mijozlar" },
