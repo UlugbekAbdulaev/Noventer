@@ -9,7 +9,7 @@ function Header() {
         <div className='box-border'>
 
 
-            <div className='imag grid grid-cols-1 md:grid-cols-2 bg-[#0E041D] relative w-full min-h-screen px-5 md:px-20'>
+            <div className='imag grid grid-cols-1 md:grid-cols-2 bg-[#0E041D] relative w-full lg:min-h-screen px-5 md:px-20'>
                 <div className='text-white text-3xl md:text-[50px] flex flex-col justify-center sm:mb-10 md:mb-[170px] sm:ml-0 md:ml-[50px] lg:ml-0'>
                     <span className='font-bold'>Yuqori sifatdagi</span>
                     <span>aniqlikka asoslanib</span>
